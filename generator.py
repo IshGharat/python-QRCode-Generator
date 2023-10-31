@@ -1,4 +1,4 @@
-#CodeRunner.in
+
 import qrcode
 
 def generate_qr_code(text,file_name):
